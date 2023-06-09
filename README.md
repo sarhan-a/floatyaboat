@@ -2,7 +2,7 @@
 
 ## About
 
-This is a web application built on Rails as part of our first coding bootcamp project as a team.
+A web application built on Rails as part of our first coding bootcamp project as a team.
 The target was to create a functional MVP based on the MVC pattern by taking inspiration from AirBnb in just 4 course days.
 
 ## What this app does
